@@ -1,0 +1,68 @@
+µö·¯´× °Ü¿ï ÇÐ±³ 
+________________________________________________________________
+1. Intro
+	: 1_Intro.pptx
+2. Basic Python usage
+	: 1_Python101_(basic_pyhton).pptx
+	(cpslab:tensorflow-101/notebooks/basic_python.ipynb)
+	(147.46.89.69:dropbox:basic_python.ipynb)
+3. Image Handling
+	: 3_ImgHandling_(basic_imgprocess).pptx
+	(cpslab:tensorflow-101/notebooks/basic_imgprocess.ipynb)
+4. Basic TF usasge
+	: 4_TensorFlow101_(basic_tensorflow).pptx
+	(cpslab:tensorflow-101/notebooks/basic_tensorflow.ipynb)
+5. Basic MNIST
+	: 5_MNIST_(basic_mnist).pptx
+	(cpslab:tensorflow-101/notebooks/basic_mnist.ipynb)
+6. Convolutional Neural Nets
+	: 6_CNNs.pptx
+________________________________________________________________
+7. Logistic Regression with MNIST
+	: 7_LogisticRegression_(logistic_regression_mnist).pptx
+	(cpslab:tensorflow-101/notebooks/logistic_regression_mnist.ipynb)
+8. Multi-layer Percetron with MNIST
+	: 8_MLP_(mlp_mnist_simple).pptx
+	(cpslab:tensorflow-101/notebooks/mlp_mnist_simple.ipynb)
+9. Convolutional Neural Network with MNIST
+	: 9_CNN_(cnn_mnist_simple).pptx
+	(cpslab:tensorflow-101/notebooks/mlp_mnist_simple.ipynb) 
+10. Training with Custom dataset
+	: 10_Training_with_custom_data.pptx 
+*. Emotion Recognition
+	(cpslab:face_recognition/code/1_load_faces.ipynb) 
+	(cpslab:face_recognition/code/2_logistic_regression.ipynb) 
+	(cpslab:face_recognition/code/3_multi_layer_perceptron.ipynb) 
+	(cpslab:face_recognition/code/4_convolutional_neural_network.ipynb) 
+________________________________________________________________
+11. Semantic Segmentation
+	: 11_Semantic_segmentation.pptx
+	: 11_Implementing_DAE_and_DCAE.pptx
+12. Weakly Supervised Localization
+	: 12_Weakly_supervised_localization.pptx
+	: 12_Implementing_CAM.pptx
+13. Detection Methods
+	: 13_Detection1.pptx
+	: 13_Detection2.pptx
+14. Deep Reinforcement Learning
+	: 14_Deep_RL.pptx
+	: 14_AlphaGo.pptx
+________________________________________________________________
+15. Recurrent Neural Network
+	: 15_Basics_of_RNN.pptx
+	: 15_Handwrting_Generation.pptx
+	: 15_Implementing_RNN_(rnn_mnist_simple).pptx
+16. Word2Vec
+	: 16_Word2Vec.pptx
+17. Char-RNN
+	: 17_Implementing_Hangul-RNN.pptx
+	: 17_Implementing_Hangul-RNN.pptx
+________________________________________________________________
+18. Generative Adversarial Network
+	: 18_GAN.pptx
+19. Neural Style
+	: 19_NeuralStyle
+________________________________________________________________
+20. TF-SLIM : Achieving 99.5% on MNIST
+	: https://github.com/sjchoi86/advanced-tensorflow/tree/master/mnist
+
